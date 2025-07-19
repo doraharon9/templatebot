@@ -7,4 +7,4 @@ By using **TemplateBot**, you agree to the following:
 - We may update or discontinue the app at any time.
 - We are not liable for any damages or losses resulting from your use of the app.
 
-For questions, contact [your-email@example.com](mailto:your-email@example.com).
+For questions, contact [templatebotcontact@gmail.com](mailto:templatebotcontact@gmail.com).
