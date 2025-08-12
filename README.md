@@ -14,7 +14,5 @@ TemplateBot helps you create, manage, and insert message templates in Slack with
 2. Use `/template create` to add a new template.
 3. Use `/template insert` to quickly insert a template into your conversation.
 
-## Support
-For help, contact [your-email@example.com](mailto:your-email@example.com).
-
-[Privacy Policy](./PRIVACY.md) | [Terms of Service](./TERMS.md)
+Visit our landing page for more information:
+https://templatebot-b5bcd23a2cb9.herokuapp.com/
